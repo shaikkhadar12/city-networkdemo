@@ -1,0 +1,16 @@
+Newark, Philadelphia
+Newark, Kansas City
+Newark, Los Angeles
+Newark, Orlando
+Newark, SanFrancisco
+Newark, Detroit
+Newark, Atlanta
+Newark, Boston
+Boston,New York
+New York, Utah
+New York, Pheonix
+New York, Dallas
+Dallas, Washington
+Philadelphia,Newark
+Trenton,Albany
+Trenton,Chicago

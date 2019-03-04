@@ -1,4 +1,5 @@
 This Demo project is created using Spring Boot and REST API
+For Graph parsing, DFS algorithm is used. 
 
 Usage instructions
 Note: List of city routes available in -/src/main/resources/cityNetwork.txt
